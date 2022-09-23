@@ -1,7 +1,7 @@
 {
-  "name": "test-react-repo",
+  "name": "react-frontend",
   "version": "0.1.0",
-  "homepage": "https://anukul14.github.io/reactTestRepo",
+  "homepage": "https://anukul14.github.io/work/employee-management-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
